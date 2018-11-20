@@ -7,6 +7,6 @@ A task list project based on the DOM Manipulation
 3. JavaScript(DOM MANIPULATION);
 
 
-## [Task List](https://gerardinhoo.github.io/Task_List/) 
+## [ Check out Task List](https://gerardinhoo.github.io/Task_List/) 
 
 
